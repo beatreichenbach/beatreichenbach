@@ -14,6 +14,7 @@ VFX Artist & Engineer building Python tools and Qt packages for VFX and DCCs.
 - [qt-logging](https://github.com/beatreichenbach/qt-logging): Log viewer and status bar for Qt applications
 - [qt-pydantic](https://github.com/beatreichenbach/qt-pydantic): Pydantic BaseModel annotations for Qt
 - [qt-updater](https://github.com/beatreichenbach/qt-updater): Update interface for Python Qt apps
+- [qt-dock-window](https://github.com/beatreichenbach/qt-dock-window): A modular, dockable window for Qt with splitters, tabs and floating docks
 
 ### Houdini Packages
 
@@ -26,6 +27,7 @@ VFX Artist & Engineer building Python tools and Qt packages for VFX and DCCs.
 - [houdini-pathmanager](https://github.com/beatreichenbach/houdini-pathmanager): A tool for SideFX Houdini to manage
   file paths
 - [houdini-themes](https://github.com/beatreichenbach/houdini-themes): Houdini color scheme configs
+- [houdini-earth](https://github.com/beatreichenbach/houdini-earth): Generate meshes in SideFX Houdini using the Google Map Tiles and Elevation APIs
 
 ### VFX Packages
 
